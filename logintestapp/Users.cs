@@ -9,6 +9,6 @@ namespace logintestapp
         public int id { get; set; }
         public string passwordHash { get; set; }
         public string firstname { get; set; }
-        public string surname { get; set; }
+        public string lastname { get; set; }
     }
 }
